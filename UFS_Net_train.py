@@ -17,6 +17,7 @@ import time
 import copy
 from UFS_Net_architecture import UFSNet
 
+
 batch_size = 64
 
 # Define 8 class labels
