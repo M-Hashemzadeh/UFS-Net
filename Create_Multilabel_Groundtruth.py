@@ -29,3 +29,4 @@ for folder in list(Labels.keys()):  # Read all iamges from 8 folder and Create C
 
 df = DataFrame(DataBase, columns=['Filename', 'Flame', 'WhiteSmoke', 'BlackSmoke'])
 df.to_csv('Dataset/Groundtruth.csv', index=False)
+
