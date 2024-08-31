@@ -1,5 +1,5 @@
 UFS-Net training dataset includes two sets of "original images" and "artificial images".
-You can download each of these collections using the following links.
+You can download each of these collections using the following links:
 
 Orginal Images : https://drive.google.com/drive/folders/1ZfYInPnLyvbhZsdU0EA0AH4dkp01C6eg?usp=sharing
 Size : 7/4 GB
